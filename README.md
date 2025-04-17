@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/191436218?s=400&u=88969177e7169bf5e16079e57ddcbd3d1ff1c0ff&v=4"  />
-</div>
-
 ###
 
 <h2 align="left">Hi There👋!,Im Anandhu K</h2>

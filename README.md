@@ -1,4 +1,14 @@
+<div align="center">
+  <img height="200" src="https://avatars.githubusercontent.com/u/191436218?s=400&u=88969177e7169bf5e16079e57ddcbd3d1ff1c0ff&v=4"  />
+</div>
+
+###
+
 <h2 align="left">Hi There👋!,Im Anandhu K</h2>
+
+###
+
+<p align="left">I'm a self-taught MERN stack developer with a strong passion for building practical, real-world web applications. Currently interning at a tech company and constantly leveling up through hands-on projects, I thrive on solving complex problems and creating seamless digital experiences.</p>
 
 ###
 
@@ -6,10 +16,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anandhu-dev-web&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anandhu-dev-web&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://www.gifcen.com/wp-content/uploads/2022/09/anime-gif-13.gif"  />
 
 ###
 
@@ -61,12 +67,20 @@
 
 ###
 
+<img align="right" height="150" src="https://www.gifcen.com/wp-content/uploads/2022/09/anime-gif-13.gif"  />
+
+###
+
+<p align="left"><h2>😂 Fun Facts</h2></h2><br>Debugging and dinner? I do both at once.<br><br>My playlist is half chill beats, half JavaScript tutorials.<br><br>Once fixed a bug at 2 AM — and it actually worked.<br><br><div> is my spirit animal — it holds my life together.</p>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/anandhu-dev-web/anandhu-dev-web/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<p align="left"><h3>🚀 What I Do</h3><br>💻 Full-Stack Web Development<br><br>🌐 RESTful API Integration<br><br>🎨 Responsive UI/UX with Tailwind CSS & Bootstrap<br><br>⚙️ Backend Logic & Authentication<br><br>🧠 Lifelong learner & curious problem-solver.<br><br><h3>🎯 Hobbies</h3><br>🎨 Drawing<br><br>🍳 Cooking<br><br>🏋️‍♂️ Gym<br><br>🌍 Traveling<br><br>🎧 Listening to Music</p>
+<p align="left"><h2>🚀 What I Do</h2><br>💻 Full-Stack Web Development<br><br>🌐 RESTful API Integration<br><br>🎨 Responsive UI/UX with Tailwind CSS & Bootstrap<br><br>⚙️ Backend Logic & Authentication<br><br>🧠 Lifelong learner & curious problem-solver.<br><br><h2>🎯 Hobbies</h2><br>🎨 Drawing<br><br>🍳 Cooking<br><br>🏋️‍♂️ Gym<br><br>🌍 Traveling<br><br>🎧 Listening to Music</p>
 
 ###

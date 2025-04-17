@@ -71,7 +71,7 @@
 
 ###
 
-<p align="left"><h2>😂 Fun Facts</h2></h2><br>Debugging and dinner? I do both at once.<br><br>My playlist is half chill beats, half JavaScript tutorials.<br><br>Once fixed a bug at 2 AM — and it actually worked.<br><br><div> is my spirit animal — it holds my life together.</p>
+<p align="left"><h2>😂 Fun Facts</h2><br>Debugging and dinner? I do both at once.<br><br>My playlist is half chill beats, half JavaScript tutorials.<br><br>Once fixed a bug at 2 AM — and it actually worked.<br><br><div> is my spirit animal — it holds my life together.</p>
 
 ###
 
